@@ -35,6 +35,9 @@ print(m[0],m[1])
 d = [43,43,22,1,1]
 d.sort()
 print(d)
+C = "world"
+for i in C:
+    print(i)
 
 e = (1,2,3,4)
 print(type(e))
