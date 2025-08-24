@@ -54,3 +54,6 @@ str1 = 'Python'
 
 for i in reversed(str1):
     print(i)
+T =[32,4,5,6,7]
+for i in T:
+    print(i)
