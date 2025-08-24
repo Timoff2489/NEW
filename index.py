@@ -42,3 +42,8 @@ for i in C:
 e = (1,2,3,4)
 print(type(e))
 print(len(e))
+
+
+n = {1,2,3}
+n.update([5,6,7])
+print(n)
