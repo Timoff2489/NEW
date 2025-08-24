@@ -33,5 +33,9 @@ print(c)
 m = 'Hello'
 print(m[0],m[1])
 d = [43,43,22,1,1]
-d.sort
+d.sort()
 print(d)
+
+e = (1,2,3,4)
+print(type(e))
+print(len(e))
