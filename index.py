@@ -27,5 +27,8 @@ def get(a,b):
 get(1,2)
 
 c = [32,4,5,5,5]
-c.reverse
+c.reverse()
 print(c)
+
+m = 'Hello'
+print(m[0],m[1])
