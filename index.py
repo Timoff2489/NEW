@@ -20,4 +20,9 @@ for i in b:
     print(i)
 for i in range(20,41):
     print(i)
+
+def get(a,b):
+    print(a+b)
+
+get(1,2)
     
