@@ -33,5 +33,8 @@ print(c)
 m = 'Hello'
 print(m[0],m[1])
 d = [43,43,22,1,1]
-d.sort
+d.sort()
 print(d)
+C = "world"
+for i in C:
+    print(i)
