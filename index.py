@@ -38,3 +38,7 @@ print(d)
 C = "world"
 for i in C:
     print(i)
+
+e = (1,2,3,4)
+print(type(e))
+print(len(e))
