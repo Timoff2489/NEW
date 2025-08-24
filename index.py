@@ -9,3 +9,5 @@ a = ("hello")
 print(len(a))
 
 print('Roman')
+a = 12
+print(a/2)
