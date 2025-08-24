@@ -18,3 +18,6 @@ print(a/2)
 b = 'Hello'
 for i in b:
     print(i)
+for i in range(20,41):
+    print(i)
+    
