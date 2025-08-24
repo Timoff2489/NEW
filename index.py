@@ -14,3 +14,7 @@ print(min(b))
 print(max(b))
 a = 12
 print(a/2)
+
+b = 'Hello'
+for i in b:
+    print(i)
