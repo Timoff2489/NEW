@@ -32,3 +32,6 @@ print(c)
 
 m = 'Hello'
 print(m[0],m[1])
+d = [43,43,22,1,1]
+d.sort
+print(d)
