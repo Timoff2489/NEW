@@ -49,3 +49,8 @@ n.update([5,6,7])
 print(n)
 R = 9
 print(R*10*20)
+
+str1 = 'Python'
+
+for i in reversed(str1):
+    print(i)
